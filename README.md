@@ -6,7 +6,7 @@
 
 This repository contains code used for some of the computational aspects of the paper
 
-    Borgini, S.; Pasveer, E.; Petre, C.; Iorga, B. I.; Vertommen, D.; Remaut, H.; Collet, J. F.; Lauber, F. Identification of receptor-binding domains of Bacteroidales antibacterial pore-forming toxins. J Biol Chem 2026, 111113. DOI: [10.1016/j.jbc.2025.111113](https://doi.org/10.1016/j.jbc.2025.111113)
+* Borgini, S.; Pasveer, E.; Petre, C.; Iorga, B. I.; Vertommen, D.; Remaut, H.; Collet, J. F.; Lauber, F. Identification of receptor-binding domains of Bacteroidales antibacterial pore-forming toxins. J Biol Chem 2026, 111113. DOI: [10.1016/j.jbc.2025.111113](https://doi.org/10.1016/j.jbc.2025.111113)
 
 This GitHub code repository is archived in Zenodo under DOI [10.5281/zenodo.15118891](https://doi.org/10.5281/zenodo.15118891)
 
